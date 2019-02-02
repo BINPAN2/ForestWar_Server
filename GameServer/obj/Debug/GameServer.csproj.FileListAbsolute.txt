@@ -1,0 +1,39 @@
+D:\VS Projects\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+D:\VS Projects\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\VS Projects\GameServer\bin\Debug\GameServer.exe.config
+D:\VS Projects\GameServer\bin\Debug\GameServer.exe
+D:\VS Projects\GameServer\bin\Debug\GameServer.pdb
+D:\VS Projects\GameServer\bin\Debug\Common.dll
+D:\VS Projects\GameServer\bin\Debug\Common.pdb
+D:\VS Projects\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+D:\VS Projects\GameServer\obj\Debug\GameServer.exe
+D:\VS Projects\GameServer\obj\Debug\GameServer.pdb
+D:\VS Projects\GameServer\bin\Debug\MySql.Data.dll
+D:\VS Projects\GameServer\bin\Debug\Google.Protobuf.dll
+D:\VS Projects\GameServer\bin\Debug\MySql.Data.xml
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\bin\Debug\GameServer.exe
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\bin\Debug\GameServer.pdb
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\bin\Debug\Common.dll
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\bin\Debug\MySql.Data.dll
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\bin\Debug\Google.Protobuf.dll
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\bin\Debug\Common.pdb
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\bin\Debug\MySql.Data.xml
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\obj\Debug\GameServer.exe
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\GameServer\obj\Debug\GameServer.pdb
+G:\VS Projects\ForestWar_Server\GameServer\bin\Debug\GameServer.exe.config
+G:\VS Projects\ForestWar_Server\GameServer\bin\Debug\GameServer.exe
+G:\VS Projects\ForestWar_Server\GameServer\bin\Debug\GameServer.pdb
+G:\VS Projects\ForestWar_Server\GameServer\bin\Debug\Common.dll
+G:\VS Projects\ForestWar_Server\GameServer\bin\Debug\Google.Protobuf.dll
+G:\VS Projects\ForestWar_Server\GameServer\bin\Debug\Common.pdb
+G:\VS Projects\ForestWar_Server\GameServer\bin\Debug\MySql.Data.xml
+G:\VS Projects\ForestWar_Server\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+G:\VS Projects\ForestWar_Server\GameServer\obj\Debug\GameServer.exe
+G:\VS Projects\ForestWar_Server\GameServer\obj\Debug\GameServer.pdb
+G:\VS Projects\ForestWar_Server\GameServer\bin\Debug\MySql.Data.dll
+G:\VS Projects\ForestWar_Server\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+G:\VS Projects\ForestWar_Server\GameServer\obj\Debug\GameServer.csproj.CopyComplete

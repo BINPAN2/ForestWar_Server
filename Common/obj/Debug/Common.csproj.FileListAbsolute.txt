@@ -1,0 +1,12 @@
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\Common\bin\Debug\Common.dll
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\Common\bin\Debug\Common.pdb
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\Common\obj\Debug\Common.dll
+C:\Users\BIN_PAN\Desktop\ForestWar_Server\Common\obj\Debug\Common.pdb
+G:\VS Projects\ForestWar_Server\Common\bin\Debug\Common.dll
+G:\VS Projects\ForestWar_Server\Common\bin\Debug\Common.pdb
+G:\VS Projects\ForestWar_Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\VS Projects\ForestWar_Server\Common\obj\Debug\Common.dll
+G:\VS Projects\ForestWar_Server\Common\obj\Debug\Common.pdb
+G:\VS Projects\ForestWar_Server\Common\obj\Debug\Common.csprojAssemblyReference.cache
